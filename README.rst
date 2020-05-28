@@ -1,3 +1,7 @@
+
+Added a generic.csv, a list of downloaded tickers on 2020-05-28, 161160 items
+---------------------
+
 Yahoo ticker downloader
 =======================
 

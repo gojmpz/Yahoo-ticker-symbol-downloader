@@ -1,6 +1,8 @@
 
 Added a generic.csv, a list of downloaded tickers on 2020-05-28, 161160 items
+
 This is a full list fo available tickers on Finance.Yahoo.com
+
 ---------------------
 
 Yahoo ticker downloader
